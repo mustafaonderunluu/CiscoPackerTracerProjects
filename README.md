@@ -1,10 +1,13 @@
- 
-Network Mimarisi ve Konfigürasyon Projelerim
+📡 Network Mimarisi ve Konfigürasyon Projelerim
+Bu repo, ağ yapılandırmaları ve güvenlik önlemleri üzerine gerçekleştirdiğim projeleri içermektedir.
 
-•Switch & Router Konfigürasyonları
- •Yönlendirme Protokolleri: Statik ve Dinamik Yönlendirme
-• IP Dağıtımı: DHCP ve Relay Agent Konfigürasyonları
-•Ağ Bölümlendirme: VLAN ve ROAS Yapılandırmaları
-•Güvenlik Önlemleri: Port Security & Port Fast
-•Erişim Kontrolleri: ACL (Access Control List) Konfigürasyonları
-•Bağlantı Optimizasyonu: EtherChannel Yapılandırmaları
+🛠️ Konular
+🔹 Switch & Router Konfigürasyonları
+Statik ve Dinamik Yönlendirme Protokolleri (Routing)
+DHCP ve Relay Agent Yapılandırmaları
+VLAN ve ROAS (Router-on-a-Stick) Konfigürasyonları
+🔹 Güvenlik ve Erişim Kontrolleri
+Port Security & Port Fast
+ACL (Access Control List) Kuralları
+🔹 Bağlantı Optimizasyonu
+EtherChannel Yapılandırmaları
